@@ -1,7 +1,6 @@
-# SECD2613_02_Group8
-Semester 2 2023/2024 SECD2613-02 System Analysis & Design
+# Semester 2 2023/2024 SECD2613-02 System Analysis & Design
 
-Group 8 Members
+# Group 8 Members
 | Name |Matric Number|
 |------|-------------|
 ADRIANA ZULAIKHA BINTI ZULKARMAN A23CS0035
