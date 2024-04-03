@@ -1,11 +1,10 @@
 # Semester 2 2023/2024 SECD2613-02 System Analysis & Design
 
 Group 8 Members
+
 | Name |Matric Number|
 |------|-------------|
-ADRIANA ZULAIKHA BINTI ZULKARMAN | A23CS0035
-BALQIS NABILAH BINTI MUHAMMAD AZWAN | A23CS0054
-AIN NAJIHA BINTI JUNAIDI | A23CS0038
-NUR SYAKIRAH ADILAH BINTI AZRI | A23CS0159
-
-
+Adriana Zulaikha Binti Zulkarman | A23CS0035
+Balqis Nabilah Binti Muhammad Azwan | A23CS0054
+Ain Najiha Binti Junaidi | A23CS0038
+Nur Syakirah Adilah Binti Azri | A23CS0159
