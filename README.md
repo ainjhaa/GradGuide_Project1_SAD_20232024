@@ -1,6 +1,6 @@
-# Semester 2 2023/2024 SECD2613-02 System Analysis & Design
+# SECD2613-02 System Analysis & Design Group 8
 
-Group 8 Members
+
 
 | Name |Matric Number|
 |------|-------------|
