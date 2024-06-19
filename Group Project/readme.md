@@ -11,5 +11,5 @@
 
 > **Discussion 2 (19/6/2024)**
 <br><br>
-![Discussion Phase 3](https://github.com/ainjhaa/GradGuide_Project1_SAD_20232024/assets/148193874/0bc9af4b-6ef7-4fcc-949e-59dc60ab8e49)
-
+<img src="https://github.com/ainjhaa/GradGuide_Project1_SAD_20232024/blob/main/Group%20Project/Discussion%20Phase%203(2).jpg" 
+     style="max-width: 100%;" />
